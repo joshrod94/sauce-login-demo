@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>selenium-java-starter</artifactId>
+    <artifactId>sauce-login-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
